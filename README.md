@@ -1,7 +1,7 @@
 # Parallax
  
 ## 💻 Sobre o Projeto
-Desenvolvimento de página web para utilização de Parallax, apenas com HTML e CSS
+Desenvolvimento de página web com rolagem Parallax, apenas com HTML e CSS
 
 ## 🛠 Tecnologias
 
